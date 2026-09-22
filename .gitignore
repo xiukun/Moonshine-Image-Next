@@ -71,3 +71,12 @@ progress.md
 /AGENTS.md
 /PROJECT_CONTEXT.md
 /PROJECT_BASELINE.md
+
+# Trellis local state (specs, tasks, workspace journals, generated metadata)
+.trellis/
+
+# Trellis-generated platform config directories
+.claude/
+.codex/
+.opencode/
+.agents/
